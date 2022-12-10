@@ -1,6 +1,6 @@
 # The Combinations Calculator
 
-## This program will find the number of possible combinations that can be obtained by taking a sample of items from a larger set.
+### This program will find the number of possible combinations that can be obtained by taking a sample of items from a larger set.
 
 ---
 
